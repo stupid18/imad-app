@@ -23,34 +23,8 @@ app.use(morgan('combined'));
                     </p>`
         
     };
-    articleTwo:{
-        title= 'Article Two|Stupid18',
-        heading= 'Article Two',
-        date= '6 March 18',
-        content=`                <p>
-                    This is the content for my second  article. This is the content for my second article.This is the content for my second article.
-                </p>
-                <p>
-                    This is the content for my second  article. This is the content for my second article.This is the content for my second  article.
-                </p>
-                 <p>
-                    This is the content for my second  article. This is the content for my second article.This is the content for my second  article.
-                </p>`
-    },
-    articleThree: {
-        title: 'Article Three|Stupid18',
-        heading: 'Article Three',
-        date: '6 March 18',
-        content: `<p>
-                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
-                </p>
-                <p>
-                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
-                </p>
-                 <p>
-                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
-                </p>`
-    }
+
+ 
 
     function createTemplate (data) {
         var title= data.title;
