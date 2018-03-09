@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 
-
+var articles = {
    var articleOne= {
         
         title: 'Article One|Stupid18',
@@ -22,7 +22,42 @@ app.use(morgan('combined'));
                 This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
             </p>`
         
-    };
+    },
+    var articleTwo= {
+        
+        title: 'Article One|Stupid18',
+        heading: 'Article Two',
+        date: '6 March 18',
+            content: ` <p>
+                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                </p>
+                <p>
+                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                </p>
+                 <p>
+                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                </p>`
+        
+    },
+    var articleThree= {
+        
+        title: 'Article One|Stupid18',
+        heading: 'Article Three',
+        date: '6 March 18',
+            content: `<p>
+                    This is the content for my Third article.This is the content for my Third article.This is the content for my Third article.
+                </p>
+               <p>
+                    This is the content for my Third article.This is the content for my Third article.This is the content for my Third article.
+                </p>
+                <p>
+                    This is the content for my Third article.This is the content for my Third article.This is the content for my Third article.
+                </p>`
+        
+    }
+    
+    
+};
 
  
 
