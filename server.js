@@ -12,15 +12,15 @@ app.use(morgan('combined'));
         title: 'Article One|Stupid18',
         heading: 'Article One',
         date: '6 March 18',
-        content: ` <p>
-                        This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
-                    </p>
-                    <p>
-                        This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
-                    </p>
-                    <p>
-                        This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
-                    </p>`
+            content: ` <p>
+                This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
+            </p>
+            <p>
+                This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
+            </p>
+            <p>
+                This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.This is the content for my article.
+            </p>`
         
     };
 
