@@ -29,13 +29,13 @@ var articles = {
         heading: 'Article Two',
         date: '6 March 18',
             content: ` <p>
-                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
                 </p>
                 <p>
-                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
                 </p>
                  <p>
-                    This is the content for my second  article. This is the content for my second  article.This is the content for my second  article.
+                    This is the content for my second Third article. This is the content for my second Third article.This is the content for my second Third article.
                 </p>`
         
     },
